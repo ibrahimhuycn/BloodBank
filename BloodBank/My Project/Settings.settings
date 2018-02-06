@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReportPrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Adobe PDF</Value>
+    </Setting>
+    <Setting Name="ReportExportBasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\BloodBank\Reports\</Value>
+    </Setting>
+    <Setting Name="IcoPngBaseDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ibrah\OneDrive\Documents\Visual Studio 2015\Projects\Bloodbank\BloodBank\Resources</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
